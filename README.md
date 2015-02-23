@@ -1,1 +1,5 @@
 # growth
+
+- run
+- bun
+- sun
